@@ -1,0 +1,112 @@
+{
+  "sections": {
+    "16418171728a2bc0ba": {
+      "type": "image-banner",
+      "blocks": {
+        "1641817172f3e99898-1": {
+          "type": "text",
+          "settings": {
+            "text": "Tutto a portata di mano. Qua puoi trovare il nostro calendario eventi, potrai visualizzare tutti gli eventi a cui assisteremo ed a quelli che creeremo per voi."
+          }
+        }
+      },
+      "block_order": [
+        "1641817172f3e99898-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/skull-helmet.jpg",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 50,
+        "color_scheme": "inverse",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "164181746551fa1129": {
+      "type": "collage",
+      "blocks": {
+        "d28bf974-f0d9-4b59-a0d3-e47c7fabe931": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/203735941_914793895749902_5135210880628006040_n.png",
+            "image_padding": false,
+            "color_scheme": "inverse"
+          }
+        },
+        "395976a5-3127-40ac-bf4a-7e01edd6ccb3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4347.png",
+            "image_padding": false,
+            "color_scheme": "inverse"
+          }
+        },
+        "8e339de9-3159-46f6-8e53-2acfabb336b6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5984_50e202ab-1060-4eec-8ccd-5a4f17b0ac4b.png",
+            "image_padding": false,
+            "color_scheme": "inverse"
+          }
+        }
+      },
+      "block_order": [
+        "d28bf974-f0d9-4b59-a0d3-e47c7fabe931",
+        "395976a5-3127-40ac-bf4a-7e01edd6ccb3",
+        "8e339de9-3159-46f6-8e53-2acfabb336b6"
+      ],
+      "settings": {
+        "heading": "EVENTI PASSATI",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "164181672805e858f4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<app-calendar id=\"proj_te5KTmDZTIn3XIHm3BWMj\"><\/app-calendar>"
+      }
+    },
+    "1638825951a5079999": {
+      "type": "rich-text",
+      "blocks": {
+        "1638825951b898ca7b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contattaci",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "1638825951b898ca7b-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1638825838355e7c76": {
+      "type": "contact-form",
+      "settings": {
+        "heading": ""
+      }
+    }
+  },
+  "order": [
+    "16418171728a2bc0ba",
+    "164181746551fa1129",
+    "main",
+    "164181672805e858f4",
+    "1638825951a5079999",
+    "1638825838355e7c76"
+  ]
+}

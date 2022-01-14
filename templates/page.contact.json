@@ -1,0 +1,55 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "1641825138092afa49": {
+      "type": "rich-text",
+      "blocks": {
+        "16418251384f48d47b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "BRIXTON GARAGE ITALIA & CO.",
+            "heading_size": "h2"
+          }
+        },
+        "16418251384f48d47b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Iscritta al registro delle imprese di Cuneo P.I.: 0000000000 - REA: NA - 0000000 <\/p><p>Sede Amministrativa\/Operativa: VIA MONSIGNOR ANTONIO FUSTELLA 3 12030 TORRE SAN GIORGIO (CN) - ITALIA <\/p><p>Sede Legale: VIA MONSIGNOR ANTONIO FUSTELLA 3 12030 TORRE SAN GIORGIO (CN) - ITALIA <\/p><p>Contatti: Telefono: +39 00000000 - Lun\/Ven 10-13\/15-18 <\/p><p>Email : info@brixtongarageitalia.com<\/p><p>Email Marketing : marketing@brixtongarageitalia.com<\/p><p>Email Grafiche : graphics@brixtongarageitalia.com<\/p><p>PEC:<\/p>"
+          }
+        },
+        "16418251384f48d47b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "notizie legali",
+            "button_link": "shopify:\/\/policies\/legal-notice",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "16418251384f48d47b-0",
+        "16418251384f48d47b-1",
+        "16418251384f48d47b-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1641898656011bcbce": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "CONTATTACI"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1641825138092afa49",
+    "1641898656011bcbce"
+  ]
+}

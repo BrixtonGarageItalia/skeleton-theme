@@ -1,0 +1,163 @@
+{
+  "sections": {
+    "1639925646599f46a5": {
+      "type": "collage",
+      "blocks": {
+        "f81af7fc-c04d-48da-8fd5-8b237652bfa6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/basic_tees_e_felpa_new_ccexpress.png",
+            "image_padding": false,
+            "color_scheme": "accent-1"
+          }
+        },
+        "6cff782e-735d-46f5-9407-a80f688cf567": {
+          "type": "collection",
+          "settings": {
+            "collection": "felpe-brixton-garage-italia",
+            "image_padding": false,
+            "color_scheme": "accent-1"
+          }
+        },
+        "163992564616edfb98-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "magliette-unisex-brixton-garage-italia",
+            "image_padding": false,
+            "color_scheme": "accent-1"
+          }
+        }
+      },
+      "block_order": [
+        "f81af7fc-c04d-48da-8fd5-8b237652bfa6",
+        "6cff782e-735d-46f5-9407-a80f688cf567",
+        "163992564616edfb98-2"
+      ],
+      "settings": {
+        "heading": "Abbigliamento Brixton Garage Italia",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "1639925630a723a7d3": {
+      "type": "collage",
+      "blocks": {
+        "ff2a1010-c5ba-4ad5-af27-671555090c7f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woman-shopping-for-clothes.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "16399256302ed1c1a1-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "giacche-da-moto",
+            "image_padding": false,
+            "color_scheme": "accent-1"
+          }
+        },
+        "55f23e90-fb8d-40ec-94cf-4536c3d00c60": {
+          "type": "collection",
+          "settings": {
+            "collection": "manubri-moto",
+            "image_padding": false,
+            "color_scheme": "accent-1"
+          }
+        }
+      },
+      "block_order": [
+        "ff2a1010-c5ba-4ad5-af27-671555090c7f",
+        "16399256302ed1c1a1-2",
+        "55f23e90-fb8d-40ec-94cf-4536c3d00c60"
+      ],
+      "settings": {
+        "heading": "Abbigliamento e Accessori Moto",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "163992771305f4fa5c": {
+      "type": "collection-list",
+      "blocks": {
+        "1639927713cedbee84-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "trasmissione"
+          }
+        },
+        "1639927713cedbee84-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "terminali"
+          }
+        },
+        "1639927713cedbee84-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "luci"
+          }
+        },
+        "cbef5fb9-5979-4344-add5-6d910fbc731d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "graphics"
+          }
+        },
+        "ed807994-eb70-4a9d-8962-28d366b535d6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "bc734eb8-2a08-4288-b58b-2bbe4c36f423": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "1639927713cedbee84-0",
+        "1639927713cedbee84-1",
+        "1639927713cedbee84-2",
+        "cbef5fb9-5979-4344-add5-6d910fbc731d",
+        "ed807994-eb70-4a9d-8962-28d366b535d6",
+        "bc734eb8-2a08-4288-b58b-2bbe4c36f423"
+      ],
+      "settings": {
+        "title": "",
+        "image_ratio": "square",
+        "color_scheme": "accent-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
+    "main": {
+      "type": "main-list-collections",
+      "disabled": true,
+      "settings": {
+        "title": "SHOP",
+        "sort": "alphabetical",
+        "image_ratio": "portrait",
+        "color_scheme": "background-1",
+        "image_padding": true
+      }
+    },
+    "1639929922d5f3c3c4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/rcm-eu.amazon-adsystem.com\/e\/cm?o=29&p=48&l=ur1&category=pw&banner=1YMAZVYK6K877R521BR2&f=ifr&linkID=2474c7bb2582c69314edc336b06d69c8&t=brixtongara04-21&tracking_id=brixtongara04-21\" width=\"1440\" height=\"200\" scrolling=\"no\" border=\"0\" marginwidth=\"0\" style=\"border:none;\" frameborder=\"0\"><\/iframe>"
+      }
+    }
+  },
+  "order": [
+    "1639925646599f46a5",
+    "1639925630a723a7d3",
+    "163992771305f4fa5c",
+    "main",
+    "1639929922d5f3c3c4"
+  ]
+}

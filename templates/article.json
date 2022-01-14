@@ -1,0 +1,159 @@
+{
+  "sections": {
+    "1641831769e5896d58": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_1325.jpg",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1641831766fb55208c": {
+      "type": "rich-text",
+      "blocks": {
+        "16418317662ff0f59e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "CHI SIAMO",
+            "heading_size": "h0"
+          }
+        },
+        "16418317662ff0f59e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il mondo delle due ruote, così come quello delle quattro del resto, è ricco di appassionati e sognatori è in questo caso l’oggetto del desiderio è un mezzo a due ruote di tipologia Scrambler.<\/p><p>La moto Scrambler rappresenta una sorta di fusione tra il modello stradale e il fuoristrada.<\/p><p>La struttura somiglia molto più a una moto da strada ma alcuni dettagli la rendono adatta a percorsi off-road, pur non troppo impegnativi.<\/p><p>Le Scrambler montano manubri, pneumatici e rapporti da fuoristrada e, soprattutto, presentano una carrozzeria tendenzialmente minimal che si riduce al serbatoio, al parafanghi e persino il sotto-sella può essere facoltativo, a seconda dei modelli.<\/p><p>La passione del Gruppo Brixton Garage Italia si focalizza – in questo caso – su una moto dal gusto e dal fascino dello stile “classic cool” che prende il nome dal quartiere a sud di Londra, per segnare l’appartenenza a una tradizione britannica di moto scrambler e cafè racer di qualche decennio fa, ma il marchio è nuovo ed è di proprietà dell’azienda austriaca KSR e con un motore che parla in giapponese. <\/p><p>La gamma Brixton è attualmente composta da moto di piccola cilindrata; presentata come concept ad Eicma nel 2016 (L’EICMA, meglio conosciuta nel mondo come Milan Motorcycle Show e in Italia come Salone del ciclo e motociclo, è la più importante rassegna espositiva mondiale di riferimento per le due ruote a motore) oggi sta conoscendo una grande diffusione.<\/p><p>Il sodalizio Brixton Garage Italia, invece, è stato fondato da due motociclisti visionari <strong>Fabio Orsini<\/strong> e <strong>Fabio Carrozzo<\/strong> che tramite i loro canali online condividono le loro conoscenze tecniche e la loro passione.<\/p><p>Non è un’iniziativa ufficiale da parte di Brixton Motorcycles, ma un progetto indipendente al quale si è unita <strong>“La Betty”<\/strong> appassionata di moto fin da piccola divenuta ben presto collaboratrice.<\/p><p>Insieme hanno consolidato il gruppo continuando a farsi conoscere sui social (Facebook e YouTube) che uniscono ora migliaia di appassionati.<\/p><p><em>“Alle volte è strano come il desiderio di libertà e la voglia di migliorare si combinino.<\/em><\/p><p><em>Un’alchimia, pur essendo distanti temporalmente e geograficamente, ci lega, in quella che possiamo definire passione per la moto.<\/em><\/p><p><em>Non chiamateci “matti”, ma visionari.<\/em><\/p><p><em>Conosciuti per gioco o per un evento straordinario, ci siamo incontrati in quello che i tempi moderni chiamano “web”.<\/em><\/p><p><em>Ci piace pensare di essere caduti in una “rete” fatta di ingranaggi, cromature, voglia di correre e di stile seventy, Questo è solo l’inizio del racconto della nostra avventura”.<\/em><\/p><p>Fabio, Betty e Fabio hanno condiviso questo sogno con altre persone, creando un gruppo ormai consolidato di appassionati “brixtoniani”; dando vita a un progetto garage che mette insieme competenze meccaniche, design e comunicazione; colmando quel vuoto che c’è tra la casa madre e il biker, senza la pretesa in alcun modo di sostituire la rete commerciale. <\/p><p>Quando una passione è reale, concreta, non può fermarsi solo al virtuale e così a Giugno il Brixton Garage Italia ha organizzato un raduno Brixton sui colli Piacentini, a cui hanno partecipato riders da tutto il Nord Italia. <strong>Danny<\/strong>, ad esempio, è partito con la sua Crossfire 500 da Trento e con oltre 200km solo di andata ha affrontato il percorso più lungo.<\/p><p>Per la sua passione e motivazione è stato premiato con un casco e una maglietta Brixton.<\/p><p>Per settembre è già in cantiere il prossimo Raduno.<\/p><p><strong>Robert Maynard Pirsig<\/strong> scrisse in Lo Zen e l’arte della manutenzione della motocicletta: <em>“La motocicletta non è altro che questo: un sistema di concetti realizzato in acciaio. In essa non c’è pezzo, non c’è forma che non sia uscita dalla mente di qualcuno”<\/em> una citazione che si sposa perfettamente con lo spirito d’acciaio dei fondatori che hanno forgiato un sodalizio, così particolare, che tassativamente doveva trovare, sulla sua strada, la nostra Rovato.<\/p><p><em><strong>M. Ferrari<\/strong><\/em><\/p><p><em><strong>CIT: <\/strong><\/em><a href=\"https:\/\/www.giornalepaesemio.it\/rovato\/brixton-garage-italia-ha-casa-anche-a-rovato-il-sodalizio-dei-fan-della-moto-austriaca-e-anche-franciacortino\/\" title=\"https:\/\/www.giornalepaesemio.it\/rovato\/brixton-garage-italia-ha-casa-anche-a-rovato-il-sodalizio-dei-fan-della-moto-austriaca-e-anche-franciacortino\/\"><em><strong>GIORNALEPAESEMIO<\/strong><\/em><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16418317662ff0f59e-0",
+        "16418317662ff0f59e-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1641833296ac468509": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/4.png",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "164183283934230518": {
+      "type": "rich-text",
+      "blocks": {
+        "1641832839e566224c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>NEWS | 16 November 2020<\/p><p>VI PRESENTIAMO “BRIXTON GARAGE ITALIA”<\/p><p>Con piacere vi presentiamo il gruppo “Brixton Garage Italia”, tre motociclisti visionari che tramite i loro canali online condividono le loro conoscenze tecniche e la loro passione. Sottolineiamo che non è un’iniziativa ufficiale da parte di Brixton Motorcycles, ma un progetto indipendente e per questo la nostra azienda non si assume alcuna responsabilità per i contenuti pubblicati. Il loro sforzo e impegno merita però di essere condiviso anche da parte nostra e gli facciamo i nostri auguri.<\/p><p>È proprio questo lo spirito di Brixton: la convinzione che tutti meritiamo una moto mitica, il fascino dello stile “classic cool” e la gioia per la condivisione della nostra passione con altri.<\/p><p>Sul canale <a href=\"https:\/\/www.facebook.com\/BrixtonGarageItalia\/\" target=\"_blank\"><strong>Facebook<\/strong><\/a><strong> <\/strong>e <a href=\"https:\/\/www.youtube.com\/channel\/UC_fFm49zhl2Rh-NNsj7omWA\" target=\"_blank\"><strong>YouTube<\/strong><\/a> uniscono già adesso centinaia di appassionati e siamo certi che questi numeri saliranno ancora.<\/p><p>Ora lasciamo la parola a Fabio, Massimiliano e Fabio, che ringraziamo per il loro impegno e a cui auguriamo tanto successo con il loro progetto.<\/p><p> <\/p><p><em>“…il sogno…<\/em><\/p><p><em>Alle volte è strano come il desiderio di libertà e la voglia di migliorare si combinino. Un’alchimia, pur essendo distanti temporalmente e geograficamente, ci lega, in quella che possiamo definire passione per la moto. Non chiamateci “matti”, ma visionari. Conosciuti per gioco o per un evento straordinario, ci siamo incontrati in quello che i tempi moderni chiamano “web”.<\/em> <em>Ci piace pensare di essere caduti in una “rete” fatta di ingranaggi, cromature, voglia di correre e di stile seventy… Questo è solo l’inizio del racconto della nostra avventura.<\/em><\/p><p><em>Fabio Orsini, Fabio Carrozzo, Massimiliano Stella – appassionati Brixton – hanno condiviso questo sogno con altre persone, creando un gruppo ormai consolidato di appassionati “brixtoniani”; dando vita a un progetto garage che mette insieme competenze meccaniche, design e comunicazione; colmando quel vuoto che c’è tra la casa madre e il biker, senza la pretesa in alcun modo di sostituire la rete commerciale. Il nostro piacere è consigliare, aiutare il singolo appassionato brixton nella massima cura del proprio mezzo e alle volte risolvere piccoli problemi meccanici – tutto online.<\/em><\/p><p><em>“Online”, questa è la nostra piccola forza, il contatto diretto con il consumatore e la possibilità di aiutarlo e consigliarlo,<\/em> <em>promuovendo prodotti testati direttamente sulla strada. Dove ci porterà questo sogno nessuno lo può ancora sapere, ma la nostra passione e motivazione ci fanno immaginare un futuro interessante. Tutto sarà possibile, anche restare solo nel sogno, ma il come restarci sarà per noi una bella sorpresa…“<\/em><\/p><p><em>Cit. <\/em><a href=\"https:\/\/www.brixton-motorcycles.com\/it\/news\/brixtongarage\/\" title=\"https:\/\/www.brixton-motorcycles.com\/it\/news\/brixtongarage\/\"><em>Brixton Motorcycles<\/em><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1641832839e566224c-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1641833022483b9e6f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1641833022b8f199b6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "HOTEL STADIO PIACENZA"
+          }
+        },
+        "1641833022b8f199b6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hotel Stadio Piacenza <a href=\"https:\/\/www.facebook.com\/StadioHotelPiacenza\" target=\"_blank\">@StadioHotelPiacenza<\/a><\/p><p><a href=\"https:\/\/www.facebook.com\/285676274871647\/posts\/3676464145792826\/\" target=\"_blank\">18 GIU 2021<\/a><\/p><p>Abbiamo accolto i ragazzi del Brixton Garage Italia-Enjoy to Ride-Custom Spirit che hanno scelto l'Hotel Stadio a<a href=\"https:\/\/www.facebook.com\/search\/top\/?q=%23Piacenza\" target=\"_blank\">#Piacenza<\/a> sabato scorso per la partenza del loro \"Raduno 2021 colli Piacentini\"!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1641833022b8f199b6-0",
+        "1641833022b8f199b6-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/203735941_914793895749902_5135210880628006040_n.jpg",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
+    "164183358264c34e90": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_5985.png",
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1641833293778238b3": {
+      "type": "rich-text",
+      "blocks": {
+        "164183329387648b0f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "BRIXTON GARAGE ITALIA IN RADUNO A COMO",
+            "heading_size": "h2"
+          }
+        },
+        "164183329387648b0f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Abbiamo avuto già modo di incontrare, sulle pagine di Paese Mio, il <em>“Brixton Garage Italia”<\/em>; un gruppo di appassionati motociclisti legati anima e cuore alla moto <em>scrambler <\/em>Brixton, che vanta tra i fondatori un cittadino rovatese <em>Fabio Orsini<\/em> e svariati appassionati della due ruote <em>vintage <\/em>made in Austria.<\/p><p>Dopo l’entusiasmo del Primo Raduno di Giugno 2021 sui Colli Piacentini <em>“quasi per scherzo <\/em>– affermano gli organizzatori – <em>abbiamo detto facciamone uno a settembre e cosi è iniziato il progetto. Abbiamo coinvolto un nostro fan, che tra l’altro ha un ristorante, così uno scherzo è diventato presto una grande realtà. Tra videochiamate e telefonate abbiamo organizzato un super giro tra il lago di Como e il lago Maggiore. 200km passati in un soffio in ottima compagnia; una trentina di persone e ben 6 donne bikers”.<\/em><\/p><p>Il Tour è partito da Erba, “<em>abbiamo toccato<\/em> – spiega <em>Betty<\/em> – <em>il Santuario della Madonna del Ghisallo, siamo passati da Bellagio abbiamo attraversato la città di Como e la pausa l’abbiamo fatta al ristorante “Bistrot at home da Robert” a Binago del nostro amico motociclista che è appunto anche uno chef.<\/em> <em>Pranzato con piatti buonissimi e con una sorpresa che ci ha commossi e deliziati perché ci ha regalato una torta in onore del nostro Secondo Raduno Ufficiale.<\/em> <em>Nel pomeriggio ci siamo rimessi in sella e siamo andati a Laveno una bellissima esperienza con tornanti, strade nel verde e tanta tranquillità. Per finire la giornata carica di entusiasmo abbiamo deciso di passare ancora del tempo insieme e abbiamo concluso il raduno tornando a Como per cena”.<\/em><\/p><p>Dalle parole di <em>Betty Rossi<\/em> emerge tutto l’orgoglio di essere una <em>Biker<\/em>. Che è in prima battuta una <em>forma mentis<\/em>, è uno stile di vita. Appartenere al mondo Biker significa rispettare una sorta di “Codice d’Onore” che ci riporta a vecchie tradizioni: essergli fedele, onorarlo e tramandarlo. È una vita su Due Ruote, una vita <em>On The Road<\/em>, che segue una filosofia basata sulla fratellanza, lo spirito di corpo che unisce i membri dello stesso Club o gruppo. Mentre lo spirito del <em>Biker <\/em>è quello di andare ovunque ci sia una strada o un tracciato ed a volte anche dove non c’è. Raggiungere luoghi di straordinaria bellezza e di particolare interesse. Andare dove porta l’istinto e dove ti spinge la curiosità, con il vento in faccia e lo sguardo rivolto all’orizzonte. Perché il vero <em>biker <\/em>viaggia adagio, a volte un po’ più speditamente, ma mai di fretta o troppo velocemente.<\/p><p><em>“Difficile esprimere a parole quello che abbiamo vissuto – ha concluso Betty – ma la frase più ricorrente dei due giorni passati insieme è: “siamo una famiglia” questo per noi organizzatori è stato un grandissimo riconoscimento. Siamo felici di aver reso felici altre persone. Ora ci stiamo focalizzando sul prossimo appuntamento che sarà molto impegnativo ma sfidante. Ci rivediamo l’anno prossimo con un Tour per l’Italia”.<\/em><\/p><p><em><strong>Mauro Ferrari<\/strong><\/em><\/p><p><em><strong>Cit. <\/strong><\/em><a href=\"https:\/\/www.giornalepaesemio.it\/rovato\/brixton-garage-italia-in-raduno-a-como\/\" title=\"https:\/\/www.giornalepaesemio.it\/rovato\/brixton-garage-italia-in-raduno-a-como\/\"><em><strong>giornalepaesemio<\/strong><\/em><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164183329387648b0f-0",
+        "164183329387648b0f-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "1641831769e5896d58",
+    "1641831766fb55208c",
+    "1641833296ac468509",
+    "164183283934230518",
+    "1641833022483b9e6f",
+    "164183358264c34e90",
+    "1641833293778238b3",
+    "main"
+  ]
+}

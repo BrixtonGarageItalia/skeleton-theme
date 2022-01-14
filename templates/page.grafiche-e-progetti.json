@@ -1,0 +1,61 @@
+{
+  "sections": {
+    "1638826409a292b4f3": {
+      "type": "image-banner",
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/IMG_2928.png",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "1638825951a5079999": {
+      "type": "rich-text",
+      "blocks": {
+        "1638825951b898ca7b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contattaci",
+            "heading_size": "h0"
+          }
+        },
+        "1638825951b898ca7b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Creiamo il progetto in base alle vostre idee, quindi non fermati!!<\/strong><\/p><p><strong> Contattaci per avere informazioni!<\/strong><\/p><p><strong>Inviaci una mail all' indirizzo: graphics@brixtongarageitalia.com<\/strong><\/p><p> <strong>indicando il vostro nome utente ed un numero di telefono<\/strong><\/p><p><strong>        OPPURE <\/strong><\/p><p><strong>Usa il Form di contatto qui sotto.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1638825951b898ca7b-0",
+        "1638825951b898ca7b-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1638825838355e7c76": {
+      "type": "contact-form",
+      "settings": {
+        "heading": ""
+      }
+    }
+  },
+  "order": [
+    "1638826409a292b4f3",
+    "main",
+    "1638825951a5079999",
+    "1638825838355e7c76"
+  ]
+}

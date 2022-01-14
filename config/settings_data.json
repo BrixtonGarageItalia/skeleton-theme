@@ -1,0 +1,205 @@
+{
+  "current": {
+    "colors_solid_button_labels": "#222222",
+    "colors_accent_1": "#84733e",
+    "gradient_accent_1": "",
+    "colors_accent_2": "#222222",
+    "gradient_accent_2": "radial-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 94.964%, rgba(132, 115, 62, 1) 100%)",
+    "colors_text": "#f2b906",
+    "colors_outline_button_labels": "#f2b906",
+    "colors_background_1": "#000000",
+    "gradient_background_1": "",
+    "colors_background_2": "#222222",
+    "gradient_background_2": "",
+    "type_header_font": "archivo_narrow_n4",
+    "heading_scale": 120,
+    "type_body_font": "archivo_narrow_n7",
+    "body_scale": 105,
+    "sale_badge_color_scheme": "accent-2",
+    "sold_out_badge_color_scheme": "inverse",
+    "accent_icons": "accent-1",
+    "page_width": "1200",
+    "social_twitter_link": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/groups\/1797511390397919\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/brixtongarageitalia\/",
+    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UC_fFm49zhl2Rh-NNsj7omWA",
+    "predictive_search_enabled": true,
+    "favicon": "shopify:\/\/shop_images\/Risorsa_1.png",
+    "currency_code_enabled": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo_giallo.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_body_background_color": "#222222",
+    "checkout_input_background_color_mode": "transparent",
+    "checkout_sidebar_background_color": "#f2b906",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#f2b906",
+    "checkout_button_color": "#222222",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/logo_giallo.png",
+          "logo_width": 250,
+          "logo_position": "top-center",
+          "menu": "main-menu",
+          "show_line_separator": true,
+          "enable_sticky_header": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "ec3fd392-5d57-4b8a-957c-f8fe8643a292": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/nuova_grafica_con_logo_nuovo.png",
+              "image_width": 105,
+              "alignment": ""
+            }
+          },
+          "c193e315-e554-4f2d-93ef-db3ba5c01df7": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Information about us",
+              "menu": "informazioni-su-di-noi"
+            }
+          },
+          "8aa9d092-ecf1-4acb-8fd7-b0d4681d5bc5": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick Links",
+              "menu": "main-menu"
+            }
+          },
+          "8bd0e473-dd28-4ef3-b148-334b28caef19": {
+            "type": "link_list",
+            "settings": {
+              "heading": "information",
+              "menu": "footer"
+            }
+          }
+        },
+        "block_order": [
+          "ec3fd392-5d57-4b8a-957c-f8fe8643a292",
+          "c193e315-e554-4f2d-93ef-db3ba5c01df7",
+          "8aa9d092-ecf1-4acb-8fd7-b0d4681d5bc5",
+          "8bd0e473-dd28-4ef3-b148-334b28caef19"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "newsletter_enable": true,
+          "newsletter_heading": "ISCRIVITI ALLA NEWSLETTER",
+          "show_social": true,
+          "enable_country_selector": true,
+          "enable_language_selector": false,
+          "payment_enable": true
+        }
+      },
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/logo_giallo.png",
+          "logo_max_width": 250,
+          "color_scheme": "background-1"
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+          "color_scheme": "background-1"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "10148494829067693542": {
+        "type": "shopify:\/\/apps\/xo-insert-code\/blocks\/insert-code-body\/72017b12-3679-442e-b23c-5c62460717f5",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "13392549970259155148": {
+        "type": "shopify:\/\/apps\/xo-insert-code\/blocks\/insert-code-header\/72017b12-3679-442e-b23c-5c62460717f5",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
+  "presets": {
+    "Default": {
+      "colors_solid_button_labels": "#FFFFFF",
+      "colors_accent_1": "#121212",
+      "colors_accent_2": "#334FB4",
+      "colors_text": "#121212",
+      "colors_outline_button_labels": "#121212",
+      "colors_background_1": "#FFFFFF",
+      "colors_background_2": "#F3F3F3",
+      "type_header_font": "assistant_n4",
+      "type_body_font": "assistant_n4",
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "announcement-bar-0": {
+              "type": "announcement",
+              "settings": {
+                "color_scheme": "background-1"
+              }
+            }
+          },
+          "block_order": [
+            "announcement-bar-0"
+          ],
+          "settings": {
+          }
+        }
+      }
+    },
+    "Craft": {
+      "colors_solid_button_labels": "#EFECEC",
+      "colors_accent_1": "#2A332F",
+      "colors_accent_2": "#476154",
+      "colors_text": "#1C1A1A",
+      "colors_outline_button_labels": "#7B8382",
+      "colors_background_1": "#EFECEC",
+      "colors_background_2": "#C1BCAE",
+      "type_header_font": "americana_n4",
+      "type_body_font": "quattrocento_sans_n4",
+      "sections": {
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "menu": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "menu",
+            "text"
+          ],
+          "settings": {
+            "color_scheme": "accent-1"
+          }
+        }
+      }
+    }
+  }
+}

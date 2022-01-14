@@ -1,0 +1,187 @@
+{
+  "sections": {
+    "1641574723269793c9": {
+      "type": "rich-text",
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/immagine_per_facebook.jpg",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 0,
+        "color_scheme": "inverse",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16379592421a02329b": {
+      "type": "image-with-text",
+      "blocks": {
+        "16379592420540fabe-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ESPLORA IL NOSTRO STORE"
+          }
+        },
+        "16379592420540fabe-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Concediti un regalo e vedi le nostre offerte.<\/strong><\/p>"
+          }
+        },
+        "16379592420540fabe-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Visita il nostro Store",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "16379592420540fabe-0",
+        "16379592420540fabe-1",
+        "16379592420540fabe-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/basic_tees_e_felpa_new_ccexpress.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "text_first"
+      }
+    },
+    "16379607542fdb8807": {
+      "type": "image-with-text",
+      "blocks": {
+        "1637960754aba3f084-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "TIENI SOTTO CONTROLLO I NOSTRI EVENTI E RADUNI"
+          }
+        },
+        "1637960754aba3f084-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Visita il nostro Calendario!",
+            "button_link": "shopify:\/\/pages\/calendario-eventi"
+          }
+        }
+      },
+      "block_order": [
+        "1637960754aba3f084-0",
+        "1637960754aba3f084-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/immagine_moto2.png",
+        "height": "small",
+        "color_scheme": "inverse",
+        "layout": "text_first"
+      }
+    },
+    "1641578105bd2f46b7": {
+      "type": "rich-text",
+      "blocks": {
+        "16415781052ab56fa3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "SEGUICI SU YOUTUBE",
+            "heading_size": "h2"
+          }
+        },
+        "16415781052ab56fa3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Sul nostro canale YouTube troverai tutorial sull' uso e mantenimento della tua moto e customizzazioni.<\/strong><\/p><p><strong>Iscriviti al canale e clicca sulla campanella per restare sempre aggiornato.<\/strong><\/p>"
+          }
+        },
+        "16415781052ab56fa3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vai al canale YouTube",
+            "button_link": "https:\/\/www.youtube.com\/channel\/UC_fFm49zhl2Rh-NNsj7omWA",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "16415781052ab56fa3-0",
+        "16415781052ab56fa3-1",
+        "16415781052ab56fa3-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "video": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/Schermata_2022-01-07_alle_17.41.29.png",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=22Xfgxq0kTQ&t=45s",
+        "description": "Tutorial Cambio olio e filtro della Brixton Crossfire 500",
+        "full_width": false
+      }
+    },
+    "1637962678702d166b": {
+      "type": "image-banner",
+      "blocks": {
+        "16379626789a764841-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "CHI SIAMO",
+            "heading_size": "medium"
+          }
+        },
+        "16379626789a764841-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "16379626789a764841-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "VISITA LA NOSTRA MISSION",
+            "button_link_1": "shopify:\/\/pages\/chi-siamo",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "shopify:\/\/collections\/all",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16379626789a764841-0",
+        "16379626789a764841-1",
+        "16379626789a764841-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/skull-helmet.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 40,
+        "color_scheme": "inverse",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    }
+  },
+  "order": [
+    "1641574723269793c9",
+    "image_banner",
+    "16379592421a02329b",
+    "16379607542fdb8807",
+    "1641578105bd2f46b7",
+    "video",
+    "1637962678702d166b"
+  ]
+}

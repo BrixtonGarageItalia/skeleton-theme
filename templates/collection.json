@@ -1,0 +1,89 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 20,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "add_image_padding": true,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "collapse_on_larger_devices": true
+      }
+    },
+    "16401091453e7e83bf": {
+      "type": "collection-list",
+      "blocks": {
+        "1640109145d4d1e8b6-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "graphics"
+          }
+        },
+        "1640109145d4d1e8b6-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "luci"
+          }
+        },
+        "1640109145d4d1e8b6-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "manubri-moto"
+          }
+        },
+        "69ad3936-dac8-425b-a295-c07bd37e6720": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "terminali"
+          }
+        },
+        "9b5160fd-78b3-4477-aa24-c3e6148d0e46": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "trasmissione"
+          }
+        },
+        "ee079f40-d99c-45cf-add4-94938311452c": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "1640109145d4d1e8b6-0",
+        "1640109145d4d1e8b6-1",
+        "1640109145d4d1e8b6-2",
+        "69ad3936-dac8-425b-a295-c07bd37e6720",
+        "9b5160fd-78b3-4477-aa24-c3e6148d0e46",
+        "ee079f40-d99c-45cf-add4-94938311452c"
+      ],
+      "settings": {
+        "title": "Accessori e componenti moto",
+        "image_ratio": "square",
+        "color_scheme": "accent-1",
+        "swipe_on_mobile": true,
+        "image_padding": true,
+        "show_view_all": true
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "16401091453e7e83bf"
+  ]
+}
