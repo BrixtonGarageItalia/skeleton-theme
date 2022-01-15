@@ -1,11 +1,5 @@
 {
   "sections": {
-    "16422483891435e519": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"crello-share\" data-crello-id=\"61e2ba2c58733a3b9bf2c5d6\"><\/div><script type=\"text\/javascript\" src=\"https:\/\/static.create.vista.com\/js\/embedded_v1.min.js?v=1.31.6\" async><\/script>"
-      }
-    },
     "1641574723269793c9": {
       "type": "rich-text",
       "settings": {
@@ -182,7 +176,6 @@
     }
   },
   "order": [
-    "16422483891435e519",
     "1641574723269793c9",
     "image_banner",
     "16379592421a02329b",
