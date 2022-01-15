@@ -54,14 +54,7 @@
         name="customer[last_name]"
         id="RegisterForm-LastName"
         {% if form.last_name %}value="{{ form.last_name }}"{% endif %}
-        spellcheck="false"
-        autocapitalize="off"
         autocomplete="family-name"
-        aria-required="true"
-        {% if form.errors contains 'name' %}
-          aria-invalid="true"
-          aria-describedby="RegisterForm-name-error"
-          {% endif %}
         placeholder="{{ 'customer.register.last_name' | t }}"
       >
       <label for="RegisterForm-LastName">
