@@ -37,17 +37,32 @@
     {%- endif -%}
     <div class="field">      
       <input
-        type="text"
+        type="First_name"
         name="customer[first_name]"
         id="RegisterForm-FirstName"
         {% if form.first_name %}value="{{ form.first_name }}"{% endif %}
+        spellcheck="true"
+        autocapitalize="on"
         autocomplete="given-name"
+        aria-required="true"
+         {% if form.errors contains 'First_name' %}
+          aria-invalid="true"
+          aria-describedby="RegisterForm-First_name-error"
+        {% endif %}   
         placeholder="{{ 'customer.register.first_name' | t }}"
       >
       <label for="RegisterForm-FirstName">
         {{ 'customer.register.first_name' | t }}
       </label>
     </div>
+    {%- if form.errors contains 'First_name' -%}
+      <span id="RegisterForm-First_name-error" class="form__message">
+        <svg aria-hidden="true" focusable="false" role="presentation">
+          <use href="#icon-error" />
+        </svg>
+        {{ form.errors.translated_fields['First_name'] | capitalize }} {{ form.errors.messages['First_name'] }}.
+      </span>
+    {%- endif -%}
     <div class="field">
       <input
         type="text"
