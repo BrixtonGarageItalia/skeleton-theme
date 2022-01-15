@@ -1,10 +1,22 @@
 {
   "sections": {
+    "16422563427c28ae31": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"position: relative; width: 100%; height: 0; padding-top: 25.0000%;\n padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;\n border-radius: 8px; will-change: transform;\">\n  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE1h5YoNfg&#x2F;watch?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  <\/iframe>\n<\/div>\n<a href=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE1h5YoNfg&#x2F;watch?utm_content=DAE1h5YoNfg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"opener\"><\/a>"
+      }
+    },
     "1641574723269793c9": {
       "type": "rich-text",
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
+      }
+    },
+    "16422581233eae30c4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"position: relative; width: 100%; height: 0; padding-top: 5.6250%;\n padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;\n border-radius: 8px; will-change: transform;\">\n  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE1h6EIseM&#x2F;watch?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  <\/iframe>\n<\/div>\n<a href=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE1h6EIseM&#x2F;watch?utm_content=DAE1h6EIseM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">"
       }
     },
     "image_banner": {
@@ -176,7 +188,9 @@
     }
   },
   "order": [
+    "16422563427c28ae31",
     "1641574723269793c9",
+    "16422581233eae30c4",
     "image_banner",
     "16379592421a02329b",
     "16379607542fdb8807",
