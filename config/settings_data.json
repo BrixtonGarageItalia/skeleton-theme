@@ -68,21 +68,21 @@
           "c193e315-e554-4f2d-93ef-db3ba5c01df7": {
             "type": "link_list",
             "settings": {
-              "heading": "Information about us",
+              "heading": "INFORMAZIONI SU DI NOI",
               "menu": "informazioni-su-di-noi"
             }
           },
           "8aa9d092-ecf1-4acb-8fd7-b0d4681d5bc5": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick Links",
+              "heading": "LINK RAPIDI",
               "menu": "main-menu"
             }
           },
           "8bd0e473-dd28-4ef3-b148-334b28caef19": {
             "type": "link_list",
             "settings": {
-              "heading": "information",
+              "heading": "INFORMATIVE",
               "menu": "footer"
             }
           }
