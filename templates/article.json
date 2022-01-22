@@ -2,6 +2,7 @@
   "sections": {
     "1641831769e5896d58": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_1325.jpg",
         "image_height": "small",
@@ -16,6 +17,7 @@
     },
     "1641831766fb55208c": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16418317662ff0f59e-0": {
           "type": "heading",
@@ -42,6 +44,7 @@
     },
     "1641833296ac468509": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/4.png",
         "image_height": "small",
@@ -56,6 +59,7 @@
     },
     "164183283934230518": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1641832839e566224c-1": {
           "type": "text",
@@ -74,6 +78,7 @@
     },
     "1641833022483b9e6f": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1641833022b8f199b6-0": {
           "type": "heading",
@@ -101,6 +106,7 @@
     },
     "164183358264c34e90": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_5985.png",
         "image_height": "medium",
@@ -115,6 +121,7 @@
     },
     "1641833293778238b3": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "164183329387648b0f-0": {
           "type": "heading",
@@ -141,7 +148,38 @@
     },
     "main": {
       "type": "main-article",
-      "disabled": true,
+      "blocks": {
+        "b2703a03-e36c-4867-9985-6fcb1c702d74": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "9a616d36-b006-4fb9-a717-088020919672": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "74a2b218-b6b6-4ffb-a151-ba16826c46c2": {
+          "type": "content",
+          "settings": {
+          }
+        },
+        "f89bddd0-c404-4b9e-b12d-f71194b4c932": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "b2703a03-e36c-4867-9985-6fcb1c702d74",
+        "9a616d36-b006-4fb9-a717-088020919672",
+        "74a2b218-b6b6-4ffb-a151-ba16826c46c2",
+        "f89bddd0-c404-4b9e-b12d-f71194b4c932"
+      ],
       "settings": {
       }
     }
