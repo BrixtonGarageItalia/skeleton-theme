@@ -1,5 +1,10 @@
 {
   "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
     "16418171728a2bc0ba": {
       "type": "image-banner",
       "blocks": {
@@ -23,6 +28,12 @@
         "color_scheme": "inverse",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "164181672805e858f4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<app-calendar id=\"proj_te5KTmDZTIn3XIHm3BWMj\"><\/app-calendar>"
       }
     },
     "164181746551fa1129": {
@@ -64,17 +75,6 @@
         "mobile_layout": "collage"
       }
     },
-    "main": {
-      "type": "main-page",
-      "settings": {
-      }
-    },
-    "164181672805e858f4": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<app-calendar id=\"proj_te5KTmDZTIn3XIHm3BWMj\"><\/app-calendar>"
-      }
-    },
     "1638825951a5079999": {
       "type": "rich-text",
       "blocks": {
@@ -102,10 +102,10 @@
     }
   },
   "order": [
-    "16418171728a2bc0ba",
-    "164181746551fa1129",
     "main",
+    "16418171728a2bc0ba",
     "164181672805e858f4",
+    "164181746551fa1129",
     "1638825951a5079999",
     "1638825838355e7c76"
   ]
