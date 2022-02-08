@@ -1,5 +1,19 @@
 {
   "sections": {
+    "1644352936bb2b44a4": {
+      "type": "image-banner",
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/bozza_chi_siamo.jpg",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -8,6 +22,7 @@
     }
   },
   "order": [
+    "1644352936bb2b44a4",
     "main"
   ]
 }
