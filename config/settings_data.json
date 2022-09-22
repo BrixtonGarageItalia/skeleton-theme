@@ -24,7 +24,7 @@
     "social_instagram_link": "https:\/\/www.instagram.com\/brixtongarageitalia\/",
     "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UC_fFm49zhl2Rh-NNsj7omWA",
     "predictive_search_enabled": true,
-    "favicon": "shopify:\/\/shop_images\/Risorsa_1.png",
+    "favicon": "shopify:\/\/shop_images\/Logo_Brixton_Garage_Italia_colore.png",
     "currency_code_enabled": true,
     "checkout_logo_image": "shopify:\/\/shop_images\/logo_giallo.png",
     "checkout_logo_position": "center",
@@ -46,7 +46,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/logo_giallo.png",
+          "logo": "shopify:\/\/shop_images\/Logo_Brixton_Garage_Italia_colore.png",
           "logo_width": 250,
           "logo_position": "top-center",
           "menu": "main-menu",
@@ -60,9 +60,9 @@
           "ec3fd392-5d57-4b8a-957c-f8fe8643a292": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/nuova_grafica_con_logo_nuovo.png",
-              "image_width": 105,
-              "alignment": ""
+              "image": "shopify:\/\/shop_images\/Logo_Brixton_Garage_Italia_colore.png",
+              "image_width": 200,
+              "alignment": "center"
             }
           },
           "c193e315-e554-4f2d-93ef-db3ba5c01df7": {
